@@ -1,0 +1,5 @@
+# Ignore virtual environment
+vloss/
+
+# Ignore data folder
+data/ 
