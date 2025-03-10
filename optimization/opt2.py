@@ -6,6 +6,14 @@ from torch.optim import LBFGS
 from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
 import matplotlib.pyplot as plt
+import asyncio
+
+# Ensure an event loop is running
+try:
+    loop = asyncio.get_running_loop()
+except RuntimeError:
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
 
 # Load dataset (MNIST)
 transform = transforms.Compose([transforms.ToTensor(), transforms.Normalize((0.5,), (0.5,))])
@@ -16,11 +24,11 @@ train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True)
 class SimpleNN(nn.Module):
     def __init__(self):
         super(SimpleNN, self).__init__()
-        self.fc1 = nn.Linear(28*28, 128)
+        self.fc1 = nn.Linear(28 * 28, 128)
         self.fc2 = nn.Linear(128, 10)
 
     def forward(self, x):
-        x = x.view(-1, 28*28)  # Flatten input
+        x = x.view(-1, 28 * 28)  # Flatten input
         x = torch.relu(self.fc1(x))
         x = self.fc2(x)
         return x
@@ -30,7 +38,7 @@ st.title("First-Order vs Second-Order Optimizer Comparison")
 
 # Select optimizer types
 optimizer_choice_1st = st.selectbox("Choose First-Order Optimizer", ["SGD", "Adam", "RMSprop"])
-optimizer_choice_2nd = st.selectbox("Choose Second-Order Optimizer", ["LBFGS"])  # Newton’s method is impractical in deep learning
+optimizer_choice_2nd = st.selectbox("Choose Second-Order Optimizer", ["LBFGS"])
 
 # Learning rate slider
 learning_rate = st.slider("Learning Rate:", 0.0001, 0.1, 0.01, 0.0001)
@@ -86,16 +94,16 @@ if st.button("Train Models"):
 
     # Train second-order optimizer model
     model_2nd.train()
-    def closure():
-        optimizer_2nd.zero_grad()
-        outputs = model_2nd(images)
-        loss = criterion(outputs, labels)
-        loss.backward()
-        return loss
-
     for epoch in range(epochs):
         total_loss = 0
         for images, labels in train_loader:
+            def closure():
+                optimizer_2nd.zero_grad()
+                outputs = model_2nd(images)
+                loss = criterion(outputs, labels)
+                loss.backward()
+                return loss
+
             optimizer_2nd.step(closure)
             total_loss += closure().item()
         loss_history_2nd.append(total_loss / len(train_loader))
