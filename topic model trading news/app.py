@@ -18,7 +18,7 @@ nltk.download("vader_lexicon")
 nltk.download('punkt_tab') 
 
 # API Key for NewsAPI (Replace with your API key)
-NEWS_API_KEY = "96d70c10f98b428e8d0ec7500a35baab"
+NEWS_API_KEY = ""
 NEWS_URL = f"https://newsapi.org/v2/everything?q=stocks OR crypto OR trading&language=en&apiKey={NEWS_API_KEY}"
 
 # Function to fetch news articles
