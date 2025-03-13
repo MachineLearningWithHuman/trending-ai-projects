@@ -1,0 +1,1001 @@
+Date,Company,Sector,Transcript,Sentiment_Score
+2025-02-17,Microsoft,Technology,"Revenue grew by 26% this quarter, driven by strong demand in Technology.",0.43
+2024-12-03,Bank of America,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2024-08-27,Goldman Sachs,Finance,Our new product line in 46 is seeing exceptional early adoption.,0.3
+2024-09-15,Pfizer,Healthcare,We are expanding aggressively into 10 markets to capitalize on industry growth.,0.0
+2024-10-15,Morgan Stanley,Finance,"Revenue grew by 48% this quarter, driven by strong demand in Finance.",0.43
+2024-03-25,Apple,Technology,We are seeing growing consumer interest in 12 due to macroeconomic trends.,-0.12
+2024-10-09,Morgan Stanley,Finance,Our new product line in 10 is seeing exceptional early adoption.,0.3
+2024-11-23,Goldman Sachs,Finance,34 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-05-18,Moderna,Healthcare,34 is leading the sector with record-breaking earnings this year.,0.0
+2024-12-18,Amazon,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-08-02,Shell,Energy,Market volatility due to global economic conditions remains a concern.,0.03
+2024-07-15,JPMorgan,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-09-27,Meta,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-02-28,Tesla,Technology,23 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-04-28,Gilead Sciences,Healthcare,We are seeing growing consumer interest in 47 due to macroeconomic trends.,-0.12
+2024-07-05,Chevron,Energy,Increased regulation in 46 is creating new challenges for our business model.,0.14
+2024-04-08,JPMorgan,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2024-07-10,Morgan Stanley,Finance,Our new product line in 36 is seeing exceptional early adoption.,0.3
+2024-10-28,Bank of America,Finance,39 is leading the sector with record-breaking earnings this year.,0.0
+2024-03-20,Google,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-08-30,Target,Retail,17 is leading the sector with record-breaking earnings this year.,0.0
+2024-09-16,Pfizer,Healthcare,43 is leading the sector with record-breaking earnings this year.,0.0
+2024-11-15,Amazon,Technology,Increased regulation in 17 is creating new challenges for our business model.,0.14
+2024-11-05,Bank of America,Finance,16 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-05-09,Costco,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-09-10,Pfizer,Healthcare,5 is leading the sector with record-breaking earnings this year.,0.0
+2025-02-14,Chevron,Energy,We are expanding aggressively into 38 markets to capitalize on industry growth.,0.0
+2025-02-06,Morgan Stanley,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-06-16,Chevron,Energy,"Revenue grew by 40% this quarter, driven by strong demand in Energy.",0.43
+2024-09-09,Chevron,Energy,Increased regulation in 39 is creating new challenges for our business model.,0.14
+2024-12-23,Costco,Retail,Our new product line in 9 is seeing exceptional early adoption.,0.3
+2024-05-07,BP,Energy,Increased regulation in 22 is creating new challenges for our business model.,0.14
+2024-11-23,Target,Retail,Our new product line in 20 is seeing exceptional early adoption.,0.3
+2025-02-10,Goldman Sachs,Finance,Increased regulation in 17 is creating new challenges for our business model.,0.14
+2024-09-28,JPMorgan,Finance,23 is leading the sector with record-breaking earnings this year.,0.0
+2025-01-03,Gilead Sciences,Healthcare,Our new product line in 10 is seeing exceptional early adoption.,0.3
+2024-09-30,Target,Retail,We are expanding aggressively into 28 markets to capitalize on industry growth.,0.0
+2024-10-06,Pfizer,Healthcare,We are seeing growing consumer interest in 20 due to macroeconomic trends.,-0.12
+2025-02-12,BP,Energy,We are seeing growing consumer interest in 44 due to macroeconomic trends.,-0.12
+2024-08-27,Amazon,Technology,Increased regulation in 49 is creating new challenges for our business model.,0.14
+2025-02-24,Pfizer,Healthcare,28 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-04-01,JPMorgan,Finance,9 is leading the sector with record-breaking earnings this year.,0.0
+2024-08-03,Bank of America,Finance,We are expanding aggressively into 35 markets to capitalize on industry growth.,0.0
+2024-10-04,Johnson & Johnson,Healthcare,"Revenue grew by 20% this quarter, driven by strong demand in Healthcare.",0.43
+2024-11-19,Moderna,Healthcare,Our new product line in 26 is seeing exceptional early adoption.,0.3
+2024-04-12,Moderna,Healthcare,24 is leading the sector with record-breaking earnings this year.,0.0
+2025-01-05,Pfizer,Healthcare,Increased regulation in 12 is creating new challenges for our business model.,0.14
+2024-03-13,Amazon,Retail,45 is leading the sector with record-breaking earnings this year.,0.0
+2024-11-30,BP,Energy,Market volatility due to global economic conditions remains a concern.,0.03
+2024-08-25,Chevron,Energy,We are expanding aggressively into 29 markets to capitalize on industry growth.,0.0
+2024-04-28,Target,Retail,18 is leading the sector with record-breaking earnings this year.,0.0
+2025-01-28,Amazon,Technology,Our new product line in 42 is seeing exceptional early adoption.,0.3
+2024-03-19,Tesla,Technology,Our new product line in 25 is seeing exceptional early adoption.,0.3
+2024-12-11,Microsoft,Technology,47 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-11-19,Meta,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-01-04,BP,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-08-21,Walmart,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-08-08,Amazon,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-08-03,Morgan Stanley,Finance,44 is leading the sector with record-breaking earnings this year.,0.0
+2025-02-27,Amazon,Retail,Increased regulation in 43 is creating new challenges for our business model.,0.14
+2024-10-29,JPMorgan,Finance,Increased regulation in 50 is creating new challenges for our business model.,0.14
+2024-04-24,BP,Energy,Our new product line in 12 is seeing exceptional early adoption.,0.3
+2024-07-14,Meta,Technology,Our new product line in 32 is seeing exceptional early adoption.,0.3
+2024-09-05,JPMorgan,Finance,25 is leading the sector with record-breaking earnings this year.,0.0
+2024-07-07,Meta,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2025-02-12,Microsoft,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-03-21,Chevron,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-08-23,Target,Retail,We are expanding aggressively into 37 markets to capitalize on industry growth.,0.0
+2024-05-21,Chevron,Energy,Market volatility due to global economic conditions remains a concern.,0.03
+2024-04-15,JPMorgan,Finance,We are seeing growing consumer interest in 31 due to macroeconomic trends.,-0.12
+2025-01-16,Goldman Sachs,Finance,36 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-10-10,Shell,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-07-24,Walmart,Retail,33 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-10-30,Nvidia,Technology,We are seeing growing consumer interest in 45 due to macroeconomic trends.,-0.12
+2025-01-04,Tesla,Technology,We are expanding aggressively into 11 markets to capitalize on industry growth.,0.0
+2024-07-20,Shell,Energy,Our new product line in 8 is seeing exceptional early adoption.,0.3
+2024-04-04,Costco,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-08-10,Johnson & Johnson,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-11-14,Nvidia,Technology,We are seeing growing consumer interest in 18 due to macroeconomic trends.,-0.12
+2025-01-14,Shell,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-08-04,Johnson & Johnson,Healthcare,19 is leading the sector with record-breaking earnings this year.,0.0
+2024-07-07,Target,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-06-12,Pfizer,Healthcare,Our new product line in 9 is seeing exceptional early adoption.,0.3
+2025-02-02,Chevron,Energy,We are expanding aggressively into 26 markets to capitalize on industry growth.,0.0
+2024-05-23,Pfizer,Healthcare,We are seeing growing consumer interest in 24 due to macroeconomic trends.,-0.12
+2024-09-17,Bank of America,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-12-05,Gilead Sciences,Healthcare,We are seeing growing consumer interest in 20 due to macroeconomic trends.,-0.12
+2025-01-28,ExxonMobil,Energy,5 is leading the sector with record-breaking earnings this year.,0.0
+2025-02-13,Goldman Sachs,Finance,We are expanding aggressively into 23 markets to capitalize on industry growth.,0.0
+2024-12-27,Chevron,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-10-04,Meta,Technology,Our new product line in 31 is seeing exceptional early adoption.,0.3
+2024-05-20,Walmart,Retail,34 is leading the sector with record-breaking earnings this year.,0.0
+2024-03-24,BP,Energy,"Revenue grew by 45% this quarter, driven by strong demand in Energy.",0.43
+2024-08-26,JPMorgan,Finance,"Revenue grew by 27% this quarter, driven by strong demand in Finance.",0.43
+2024-07-18,Moderna,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-12-18,Moderna,Healthcare,We are seeing growing consumer interest in 39 due to macroeconomic trends.,-0.12
+2024-06-10,JPMorgan,Finance,Increased regulation in 19 is creating new challenges for our business model.,0.14
+2024-07-26,Costco,Retail,Market volatility due to global economic conditions remains a concern.,0.03
+2025-01-06,Costco,Retail,"Revenue grew by 43% this quarter, driven by strong demand in Retail.",0.43
+2024-07-10,JPMorgan,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-05-24,Target,Retail,Increased regulation in 37 is creating new challenges for our business model.,0.14
+2025-02-10,JPMorgan,Finance,Increased regulation in 48 is creating new challenges for our business model.,0.14
+2024-12-11,Google,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-02-23,Shell,Energy,42 is leading the sector with record-breaking earnings this year.,0.0
+2024-12-11,Johnson & Johnson,Healthcare,"Revenue grew by 45% this quarter, driven by strong demand in Healthcare.",0.43
+2024-09-13,Gilead Sciences,Healthcare,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-05-26,JPMorgan,Finance,"Revenue grew by 38% this quarter, driven by strong demand in Finance.",0.43
+2024-12-19,Target,Retail,Our new product line in 6 is seeing exceptional early adoption.,0.3
+2025-01-28,BP,Energy,32 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-04-15,Microsoft,Technology,We are expanding aggressively into 28 markets to capitalize on industry growth.,0.0
+2024-12-19,Moderna,Healthcare,We are seeing growing consumer interest in 15 due to macroeconomic trends.,-0.12
+2024-10-05,Chevron,Energy,Increased regulation in 11 is creating new challenges for our business model.,0.14
+2024-04-08,ExxonMobil,Energy,Increased regulation in 37 is creating new challenges for our business model.,0.14
+2024-11-19,Moderna,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2024-09-20,ExxonMobil,Energy,"Revenue grew by 50% this quarter, driven by strong demand in Energy.",0.43
+2024-08-16,Google,Technology,34 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-01-09,Costco,Retail,We are seeing growing consumer interest in 38 due to macroeconomic trends.,-0.12
+2024-06-09,Amazon,Technology,Increased regulation in 50 is creating new challenges for our business model.,0.14
+2024-04-10,Meta,Technology,We are seeing growing consumer interest in 40 due to macroeconomic trends.,-0.12
+2024-12-08,BP,Energy,"Revenue grew by 26% this quarter, driven by strong demand in Energy.",0.43
+2025-03-04,ExxonMobil,Energy,17 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-03-21,Walmart,Retail,Market volatility due to global economic conditions remains a concern.,0.03
+2024-06-01,Goldman Sachs,Finance,"Revenue grew by 36% this quarter, driven by strong demand in Finance.",0.43
+2024-07-05,Apple,Technology,Increased regulation in 45 is creating new challenges for our business model.,0.14
+2024-10-01,Moderna,Healthcare,39 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-08-14,Target,Retail,47 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-07-18,Target,Retail,Increased regulation in 19 is creating new challenges for our business model.,0.14
+2024-06-06,Tesla,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2024-09-06,Chevron,Energy,We are expanding aggressively into 12 markets to capitalize on industry growth.,0.0
+2024-04-16,Walmart,Retail,20 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-09-21,Google,Technology,Our new product line in 26 is seeing exceptional early adoption.,0.3
+2024-11-22,Morgan Stanley,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2024-03-30,Costco,Retail,46 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-01-16,Google,Technology,8 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-11-17,Morgan Stanley,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2025-03-01,Goldman Sachs,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-01-04,Moderna,Healthcare,23 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-03-02,Tesla,Technology,"Revenue grew by 47% this quarter, driven by strong demand in Technology.",0.43
+2025-02-08,Morgan Stanley,Finance,We are seeing growing consumer interest in 11 due to macroeconomic trends.,-0.12
+2024-09-06,Walmart,Retail,Our new product line in 13 is seeing exceptional early adoption.,0.3
+2024-05-25,Chevron,Energy,50 is leading the sector with record-breaking earnings this year.,0.0
+2025-02-11,Amazon,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-07-06,Moderna,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-09-23,Goldman Sachs,Finance,Our new product line in 6 is seeing exceptional early adoption.,0.3
+2024-12-19,Amazon,Retail,32 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-09-02,Gilead Sciences,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-12-29,Chevron,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-05-10,ExxonMobil,Energy,Increased regulation in 36 is creating new challenges for our business model.,0.14
+2024-05-25,Johnson & Johnson,Healthcare,"Revenue grew by 14% this quarter, driven by strong demand in Healthcare.",0.43
+2024-08-31,Johnson & Johnson,Healthcare,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-02-10,Morgan Stanley,Finance,Increased regulation in 18 is creating new challenges for our business model.,0.14
+2025-01-01,Bank of America,Finance,We are expanding aggressively into 40 markets to capitalize on industry growth.,0.0
+2025-03-06,Bank of America,Finance,Increased regulation in 20 is creating new challenges for our business model.,0.14
+2024-10-31,Morgan Stanley,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2024-06-02,Costco,Retail,"Revenue grew by 20% this quarter, driven by strong demand in Retail.",0.43
+2024-10-29,Tesla,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2024-05-14,ExxonMobil,Energy,Increased regulation in 49 is creating new challenges for our business model.,0.14
+2024-09-30,Google,Technology,30 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-08-29,Microsoft,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-12-02,Walmart,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-06-08,Target,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-11-26,BP,Energy,We are expanding aggressively into 27 markets to capitalize on industry growth.,0.0
+2025-01-19,Morgan Stanley,Finance,38 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-03-29,Meta,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-05-05,Microsoft,Technology,Our new product line in 26 is seeing exceptional early adoption.,0.3
+2024-07-12,ExxonMobil,Energy,We are expanding aggressively into 50 markets to capitalize on industry growth.,0.0
+2024-09-02,Pfizer,Healthcare,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-07-04,Goldman Sachs,Finance,Increased regulation in 26 is creating new challenges for our business model.,0.14
+2024-12-27,Pfizer,Healthcare,We are seeing growing consumer interest in 41 due to macroeconomic trends.,-0.12
+2024-08-25,ExxonMobil,Energy,Our new product line in 44 is seeing exceptional early adoption.,0.3
+2024-10-21,Morgan Stanley,Finance,We are seeing growing consumer interest in 10 due to macroeconomic trends.,-0.12
+2024-11-25,BP,Energy,We are expanding aggressively into 22 markets to capitalize on industry growth.,0.0
+2024-12-01,Moderna,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-05-22,Shell,Energy,Market volatility due to global economic conditions remains a concern.,0.03
+2025-02-07,ExxonMobil,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-03-21,Microsoft,Technology,35 is leading the sector with record-breaking earnings this year.,0.0
+2025-01-24,Walmart,Retail,Market volatility due to global economic conditions remains a concern.,0.03
+2024-09-04,Tesla,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-09-01,Pfizer,Healthcare,Increased regulation in 21 is creating new challenges for our business model.,0.14
+2024-04-03,Google,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-07-05,ExxonMobil,Energy,"Revenue grew by 17% this quarter, driven by strong demand in Energy.",0.43
+2024-03-19,Amazon,Technology,49 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-11-05,Apple,Technology,We are seeing growing consumer interest in 28 due to macroeconomic trends.,-0.12
+2024-05-16,ExxonMobil,Energy,Our new product line in 6 is seeing exceptional early adoption.,0.3
+2024-08-30,Costco,Retail,12 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-04-10,Nvidia,Technology,We are seeing growing consumer interest in 10 due to macroeconomic trends.,-0.12
+2024-05-15,Chevron,Energy,Our new product line in 21 is seeing exceptional early adoption.,0.3
+2024-09-09,Amazon,Retail,"Revenue grew by 6% this quarter, driven by strong demand in Retail.",0.43
+2024-03-27,BP,Energy,We are expanding aggressively into 46 markets to capitalize on industry growth.,0.0
+2024-10-10,Nvidia,Technology,"Revenue grew by 15% this quarter, driven by strong demand in Technology.",0.43
+2024-09-28,Apple,Technology,50 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-06-19,Morgan Stanley,Finance,37 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-03-04,Shell,Energy,24 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-03-26,Johnson & Johnson,Healthcare,32 is leading the sector with record-breaking earnings this year.,0.0
+2024-09-17,Moderna,Healthcare,"Revenue grew by 37% this quarter, driven by strong demand in Healthcare.",0.43
+2024-10-20,Bank of America,Finance,Our new product line in 41 is seeing exceptional early adoption.,0.3
+2024-11-21,Chevron,Energy,"Revenue grew by 37% this quarter, driven by strong demand in Energy.",0.43
+2024-03-13,JPMorgan,Finance,"Revenue grew by 45% this quarter, driven by strong demand in Finance.",0.43
+2024-08-22,Pfizer,Healthcare,25 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-11-06,Microsoft,Technology,"Revenue grew by 11% this quarter, driven by strong demand in Technology.",0.43
+2024-06-03,Tesla,Technology,We are expanding aggressively into 16 markets to capitalize on industry growth.,0.0
+2024-10-25,Moderna,Healthcare,"Revenue grew by 11% this quarter, driven by strong demand in Healthcare.",0.43
+2024-03-12,ExxonMobil,Energy,Increased regulation in 25 is creating new challenges for our business model.,0.14
+2024-11-08,Pfizer,Healthcare,"Revenue grew by 13% this quarter, driven by strong demand in Healthcare.",0.43
+2024-11-23,Walmart,Retail,Our new product line in 35 is seeing exceptional early adoption.,0.3
+2025-02-12,Nvidia,Technology,We are expanding aggressively into 34 markets to capitalize on industry growth.,0.0
+2025-02-22,Amazon,Retail,24 is leading the sector with record-breaking earnings this year.,0.0
+2024-07-20,Amazon,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-08-07,Microsoft,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-07-19,Costco,Retail,We are seeing growing consumer interest in 10 due to macroeconomic trends.,-0.12
+2024-11-04,Costco,Retail,Increased regulation in 20 is creating new challenges for our business model.,0.14
+2024-05-27,Moderna,Healthcare,We are seeing growing consumer interest in 11 due to macroeconomic trends.,-0.12
+2024-05-22,Apple,Technology,8 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-10-21,Microsoft,Technology,"Revenue grew by 13% this quarter, driven by strong demand in Technology.",0.43
+2024-04-21,Goldman Sachs,Finance,"Revenue grew by 6% this quarter, driven by strong demand in Finance.",0.43
+2024-06-07,Costco,Retail,We are seeing growing consumer interest in 37 due to macroeconomic trends.,-0.12
+2025-03-02,JPMorgan,Finance,We are expanding aggressively into 42 markets to capitalize on industry growth.,0.0
+2024-12-15,Costco,Retail,28 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-09-27,Costco,Retail,Increased regulation in 13 is creating new challenges for our business model.,0.14
+2024-05-09,Walmart,Retail,14 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-03-04,Amazon,Technology,37 is leading the sector with record-breaking earnings this year.,0.0
+2024-07-18,Amazon,Technology,We are expanding aggressively into 47 markets to capitalize on industry growth.,0.0
+2025-01-25,ExxonMobil,Energy,We are expanding aggressively into 22 markets to capitalize on industry growth.,0.0
+2024-10-05,Bank of America,Finance,48 is leading the sector with record-breaking earnings this year.,0.0
+2024-11-30,Amazon,Technology,30 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-09-03,Target,Retail,12 is leading the sector with record-breaking earnings this year.,0.0
+2024-11-13,Amazon,Retail,45 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-05-31,ExxonMobil,Energy,We are expanding aggressively into 13 markets to capitalize on industry growth.,0.0
+2024-12-09,Gilead Sciences,Healthcare,Our new product line in 50 is seeing exceptional early adoption.,0.3
+2025-01-18,Nvidia,Technology,Increased regulation in 25 is creating new challenges for our business model.,0.14
+2024-10-18,Bank of America,Finance,Increased regulation in 17 is creating new challenges for our business model.,0.14
+2025-03-09,Johnson & Johnson,Healthcare,Our new product line in 18 is seeing exceptional early adoption.,0.3
+2024-12-04,Chevron,Energy,We are seeing growing consumer interest in 16 due to macroeconomic trends.,-0.12
+2025-01-22,JPMorgan,Finance,We are expanding aggressively into 13 markets to capitalize on industry growth.,0.0
+2025-02-09,Walmart,Retail,We are expanding aggressively into 18 markets to capitalize on industry growth.,0.0
+2024-08-22,Amazon,Retail,Our new product line in 10 is seeing exceptional early adoption.,0.3
+2025-02-12,Amazon,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-07-20,Pfizer,Healthcare,6 is leading the sector with record-breaking earnings this year.,0.0
+2024-06-23,Walmart,Retail,49 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-09-11,Morgan Stanley,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2024-12-10,Johnson & Johnson,Healthcare,9 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-01-19,ExxonMobil,Energy,Our new product line in 14 is seeing exceptional early adoption.,0.3
+2024-07-26,Goldman Sachs,Finance,36 is leading the sector with record-breaking earnings this year.,0.0
+2024-03-27,Gilead Sciences,Healthcare,34 is leading the sector with record-breaking earnings this year.,0.0
+2024-08-30,Goldman Sachs,Finance,20 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-09-07,Walmart,Retail,"Revenue grew by 24% this quarter, driven by strong demand in Retail.",0.43
+2024-05-09,ExxonMobil,Energy,Increased regulation in 48 is creating new challenges for our business model.,0.14
+2024-10-06,Morgan Stanley,Finance,31 is leading the sector with record-breaking earnings this year.,0.0
+2024-11-27,Walmart,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-04-22,Costco,Retail,Our new product line in 31 is seeing exceptional early adoption.,0.3
+2025-03-09,Pfizer,Healthcare,We are seeing growing consumer interest in 17 due to macroeconomic trends.,-0.12
+2024-09-12,Meta,Technology,"Revenue grew by 19% this quarter, driven by strong demand in Technology.",0.43
+2024-10-16,Bank of America,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-11-04,Shell,Energy,Increased regulation in 23 is creating new challenges for our business model.,0.14
+2025-02-27,ExxonMobil,Energy,We are seeing growing consumer interest in 43 due to macroeconomic trends.,-0.12
+2024-03-12,ExxonMobil,Energy,9 is leading the sector with record-breaking earnings this year.,0.0
+2025-03-08,Shell,Energy,8 is leading the sector with record-breaking earnings this year.,0.0
+2024-03-27,Goldman Sachs,Finance,Our new product line in 22 is seeing exceptional early adoption.,0.3
+2024-08-03,Morgan Stanley,Finance,"Revenue grew by 17% this quarter, driven by strong demand in Finance.",0.43
+2025-01-01,BP,Energy,Our new product line in 24 is seeing exceptional early adoption.,0.3
+2024-09-12,JPMorgan,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-07-18,Target,Retail,Increased regulation in 31 is creating new challenges for our business model.,0.14
+2024-11-21,Costco,Retail,We are expanding aggressively into 7 markets to capitalize on industry growth.,0.0
+2024-08-25,Moderna,Healthcare,We are expanding aggressively into 19 markets to capitalize on industry growth.,0.0
+2024-09-23,Johnson & Johnson,Healthcare,Increased regulation in 16 is creating new challenges for our business model.,0.14
+2024-06-19,BP,Energy,Our new product line in 48 is seeing exceptional early adoption.,0.3
+2024-11-26,JPMorgan,Finance,16 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-11-11,Shell,Energy,Our new product line in 32 is seeing exceptional early adoption.,0.3
+2024-07-17,Costco,Retail,36 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-03-13,BP,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-02-23,Johnson & Johnson,Healthcare,22 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-04-06,Walmart,Retail,48 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-09-03,ExxonMobil,Energy,16 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-10-22,Morgan Stanley,Finance,17 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-03-30,Moderna,Healthcare,Our new product line in 38 is seeing exceptional early adoption.,0.3
+2024-10-19,Walmart,Retail,We are expanding aggressively into 27 markets to capitalize on industry growth.,0.0
+2024-05-25,ExxonMobil,Energy,We are seeing growing consumer interest in 14 due to macroeconomic trends.,-0.12
+2024-08-05,Microsoft,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-06-18,Costco,Retail,Increased regulation in 39 is creating new challenges for our business model.,0.14
+2025-01-17,Walmart,Retail,41 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-04-08,Amazon,Technology,We are seeing growing consumer interest in 36 due to macroeconomic trends.,-0.12
+2024-04-10,Gilead Sciences,Healthcare,Increased regulation in 12 is creating new challenges for our business model.,0.14
+2024-06-10,Google,Technology,Our new product line in 44 is seeing exceptional early adoption.,0.3
+2024-08-05,Costco,Retail,Our new product line in 28 is seeing exceptional early adoption.,0.3
+2025-01-04,Walmart,Retail,Our new product line in 24 is seeing exceptional early adoption.,0.3
+2024-11-08,Moderna,Healthcare,We are expanding aggressively into 44 markets to capitalize on industry growth.,0.0
+2024-07-31,Gilead Sciences,Healthcare,We are seeing growing consumer interest in 15 due to macroeconomic trends.,-0.12
+2024-08-05,Gilead Sciences,Healthcare,We are seeing growing consumer interest in 35 due to macroeconomic trends.,-0.12
+2024-10-08,Tesla,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-01-20,Walmart,Retail,"Revenue grew by 9% this quarter, driven by strong demand in Retail.",0.43
+2024-08-18,Chevron,Energy,"Revenue grew by 41% this quarter, driven by strong demand in Energy.",0.43
+2024-06-20,Costco,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-02-02,Morgan Stanley,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-03-02,Pfizer,Healthcare,Increased regulation in 13 is creating new challenges for our business model.,0.14
+2024-11-22,ExxonMobil,Energy,"Revenue grew by 42% this quarter, driven by strong demand in Energy.",0.43
+2024-06-06,ExxonMobil,Energy,49 is leading the sector with record-breaking earnings this year.,0.0
+2024-06-05,Chevron,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-10-22,Johnson & Johnson,Healthcare,We are seeing growing consumer interest in 17 due to macroeconomic trends.,-0.12
+2024-03-24,Nvidia,Technology,15 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-08-07,Target,Retail,Our new product line in 10 is seeing exceptional early adoption.,0.3
+2024-05-28,Tesla,Technology,Our new product line in 47 is seeing exceptional early adoption.,0.3
+2024-10-23,Costco,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-06-26,Target,Retail,Increased regulation in 8 is creating new challenges for our business model.,0.14
+2025-01-09,Pfizer,Healthcare,Increased regulation in 22 is creating new challenges for our business model.,0.14
+2025-03-08,JPMorgan,Finance,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-03-20,Shell,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-07-02,Google,Technology,We are expanding aggressively into 43 markets to capitalize on industry growth.,0.0
+2024-09-30,Target,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-12-30,Bank of America,Finance,We are expanding aggressively into 40 markets to capitalize on industry growth.,0.0
+2024-05-12,Microsoft,Technology,43 is leading the sector with record-breaking earnings this year.,0.0
+2024-08-07,Walmart,Retail,We are expanding aggressively into 24 markets to capitalize on industry growth.,0.0
+2024-04-29,Bank of America,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2024-12-29,Target,Retail,Our new product line in 46 is seeing exceptional early adoption.,0.3
+2024-12-17,Goldman Sachs,Finance,We are expanding aggressively into 36 markets to capitalize on industry growth.,0.0
+2024-09-23,Costco,Retail,"Revenue grew by 35% this quarter, driven by strong demand in Retail.",0.43
+2024-09-06,Bank of America,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2024-04-10,Apple,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-05-21,Costco,Retail,16 is leading the sector with record-breaking earnings this year.,0.0
+2024-05-27,Moderna,Healthcare,Increased regulation in 39 is creating new challenges for our business model.,0.14
+2025-01-21,Shell,Energy,30 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-10-08,ExxonMobil,Energy,6 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-04-19,Google,Technology,Increased regulation in 28 is creating new challenges for our business model.,0.14
+2024-08-08,Chevron,Energy,44 is leading the sector with record-breaking earnings this year.,0.0
+2024-09-30,Chevron,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-11-10,Amazon,Retail,14 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-02-10,Johnson & Johnson,Healthcare,24 is leading the sector with record-breaking earnings this year.,0.0
+2024-09-30,Amazon,Retail,We are seeing growing consumer interest in 40 due to macroeconomic trends.,-0.12
+2024-10-04,Nvidia,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-05-26,ExxonMobil,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-09-05,Chevron,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-02-20,Tesla,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-12-16,Amazon,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-05-06,Johnson & Johnson,Healthcare,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-09-10,Shell,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-07-07,ExxonMobil,Energy,We are seeing growing consumer interest in 38 due to macroeconomic trends.,-0.12
+2025-02-16,Shell,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-01-19,ExxonMobil,Energy,We are expanding aggressively into 19 markets to capitalize on industry growth.,0.0
+2024-11-21,Morgan Stanley,Finance,We are expanding aggressively into 42 markets to capitalize on industry growth.,0.0
+2024-09-03,Morgan Stanley,Finance,"Revenue grew by 20% this quarter, driven by strong demand in Finance.",0.43
+2024-05-10,Bank of America,Finance,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-11-08,Gilead Sciences,Healthcare,40 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-12-17,Johnson & Johnson,Healthcare,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-07-08,Goldman Sachs,Finance,We are seeing growing consumer interest in 5 due to macroeconomic trends.,-0.12
+2024-11-12,Bank of America,Finance,35 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-05-11,Morgan Stanley,Finance,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-08-26,Johnson & Johnson,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2025-01-02,Costco,Retail,We are expanding aggressively into 10 markets to capitalize on industry growth.,0.0
+2024-11-27,JPMorgan,Finance,Increased regulation in 50 is creating new challenges for our business model.,0.14
+2024-11-23,Chevron,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-08-22,Walmart,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-07-26,Moderna,Healthcare,We are expanding aggressively into 5 markets to capitalize on industry growth.,0.0
+2024-09-12,Meta,Technology,Our new product line in 34 is seeing exceptional early adoption.,0.3
+2025-01-27,ExxonMobil,Energy,We are seeing growing consumer interest in 24 due to macroeconomic trends.,-0.12
+2024-06-25,Amazon,Retail,Our new product line in 16 is seeing exceptional early adoption.,0.3
+2024-03-30,Costco,Retail,Market volatility due to global economic conditions remains a concern.,0.03
+2024-06-17,Amazon,Retail,We are expanding aggressively into 39 markets to capitalize on industry growth.,0.0
+2024-09-13,Amazon,Retail,We are expanding aggressively into 39 markets to capitalize on industry growth.,0.0
+2024-11-14,Walmart,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-10-14,Shell,Energy,We are seeing growing consumer interest in 25 due to macroeconomic trends.,-0.12
+2024-07-29,Chevron,Energy,Our new product line in 42 is seeing exceptional early adoption.,0.3
+2025-01-07,Target,Retail,We are expanding aggressively into 32 markets to capitalize on industry growth.,0.0
+2024-12-30,Johnson & Johnson,Healthcare,We are expanding aggressively into 38 markets to capitalize on industry growth.,0.0
+2024-11-01,ExxonMobil,Energy,28 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-12-20,Bank of America,Finance,We are seeing growing consumer interest in 40 due to macroeconomic trends.,-0.12
+2024-08-07,Goldman Sachs,Finance,5 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-03-10,Costco,Retail,Increased regulation in 8 is creating new challenges for our business model.,0.14
+2024-11-18,Apple,Technology,Our new product line in 31 is seeing exceptional early adoption.,0.3
+2024-09-04,Microsoft,Technology,We are expanding aggressively into 21 markets to capitalize on industry growth.,0.0
+2024-10-17,Pfizer,Healthcare,We are expanding aggressively into 21 markets to capitalize on industry growth.,0.0
+2024-11-13,Walmart,Retail,37 is leading the sector with record-breaking earnings this year.,0.0
+2024-12-06,Shell,Energy,We are seeing growing consumer interest in 22 due to macroeconomic trends.,-0.12
+2024-03-29,Meta,Technology,19 is leading the sector with record-breaking earnings this year.,0.0
+2025-01-09,Tesla,Technology,14 is leading the sector with record-breaking earnings this year.,0.0
+2024-11-30,Meta,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-02-12,Walmart,Retail,"Revenue grew by 12% this quarter, driven by strong demand in Retail.",0.43
+2024-09-10,Target,Retail,Increased regulation in 17 is creating new challenges for our business model.,0.14
+2024-07-15,Bank of America,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-05-16,Amazon,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2024-11-12,Shell,Energy,21 is leading the sector with record-breaking earnings this year.,0.0
+2024-12-10,Johnson & Johnson,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-01-04,Amazon,Retail,26 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-07-19,ExxonMobil,Energy,9 is leading the sector with record-breaking earnings this year.,0.0
+2025-03-10,Pfizer,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-03-29,Nvidia,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-08-12,Shell,Energy,"Revenue grew by 49% this quarter, driven by strong demand in Energy.",0.43
+2024-12-22,Johnson & Johnson,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2024-06-16,ExxonMobil,Energy,26 is leading the sector with record-breaking earnings this year.,0.0
+2025-01-24,BP,Energy,We are seeing growing consumer interest in 34 due to macroeconomic trends.,-0.12
+2024-06-02,JPMorgan,Finance,"Revenue grew by 46% this quarter, driven by strong demand in Finance.",0.43
+2024-05-24,Apple,Technology,"Revenue grew by 50% this quarter, driven by strong demand in Technology.",0.43
+2024-07-07,Microsoft,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-01-26,Chevron,Energy,49 is leading the sector with record-breaking earnings this year.,0.0
+2024-08-13,Walmart,Retail,49 is leading the sector with record-breaking earnings this year.,0.0
+2024-09-20,Meta,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-01-09,Costco,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-05-13,Costco,Retail,Increased regulation in 14 is creating new challenges for our business model.,0.14
+2024-10-06,Amazon,Retail,Our new product line in 41 is seeing exceptional early adoption.,0.3
+2024-10-06,Target,Retail,Our new product line in 44 is seeing exceptional early adoption.,0.3
+2024-08-04,Walmart,Retail,17 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-04-25,Goldman Sachs,Finance,38 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-09-15,Meta,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2025-02-07,Moderna,Healthcare,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-09-06,BP,Energy,Increased regulation in 17 is creating new challenges for our business model.,0.14
+2025-01-16,Amazon,Retail,Market volatility due to global economic conditions remains a concern.,0.03
+2024-05-27,Bank of America,Finance,We are expanding aggressively into 22 markets to capitalize on industry growth.,0.0
+2024-12-18,Amazon,Retail,We are seeing growing consumer interest in 27 due to macroeconomic trends.,-0.12
+2025-01-30,Moderna,Healthcare,Increased regulation in 33 is creating new challenges for our business model.,0.14
+2025-01-28,BP,Energy,Increased regulation in 26 is creating new challenges for our business model.,0.14
+2025-01-23,Meta,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-04-28,Amazon,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-03-14,Tesla,Technology,Increased regulation in 44 is creating new challenges for our business model.,0.14
+2024-04-18,Goldman Sachs,Finance,36 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-10-30,ExxonMobil,Energy,We are expanding aggressively into 43 markets to capitalize on industry growth.,0.0
+2025-02-04,Morgan Stanley,Finance,24 is leading the sector with record-breaking earnings this year.,0.0
+2024-06-07,Johnson & Johnson,Healthcare,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-05-28,Gilead Sciences,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2024-05-19,Tesla,Technology,We are seeing growing consumer interest in 12 due to macroeconomic trends.,-0.12
+2024-05-23,Walmart,Retail,We are seeing growing consumer interest in 43 due to macroeconomic trends.,-0.12
+2024-07-29,Chevron,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-07-05,Gilead Sciences,Healthcare,Our new product line in 50 is seeing exceptional early adoption.,0.3
+2024-09-30,Microsoft,Technology,We are seeing growing consumer interest in 43 due to macroeconomic trends.,-0.12
+2024-09-18,Amazon,Retail,39 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-01-18,Gilead Sciences,Healthcare,We are seeing growing consumer interest in 11 due to macroeconomic trends.,-0.12
+2025-02-22,Target,Retail,21 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-12-23,Costco,Retail,50 is leading the sector with record-breaking earnings this year.,0.0
+2025-02-02,Tesla,Technology,37 is leading the sector with record-breaking earnings this year.,0.0
+2024-05-13,JPMorgan,Finance,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-04-16,Amazon,Retail,Our new product line in 40 is seeing exceptional early adoption.,0.3
+2024-12-07,Amazon,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-07-16,Tesla,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-05-12,Costco,Retail,23 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-07-15,JPMorgan,Finance,16 is leading the sector with record-breaking earnings this year.,0.0
+2024-10-21,Morgan Stanley,Finance,Increased regulation in 44 is creating new challenges for our business model.,0.14
+2024-08-15,Goldman Sachs,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-03-10,Moderna,Healthcare,6 is leading the sector with record-breaking earnings this year.,0.0
+2024-07-02,Costco,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-07-13,Nvidia,Technology,"Revenue grew by 46% this quarter, driven by strong demand in Technology.",0.43
+2024-11-22,JPMorgan,Finance,33 is leading the sector with record-breaking earnings this year.,0.0
+2024-12-27,Amazon,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-12-25,Bank of America,Finance,We are expanding aggressively into 30 markets to capitalize on industry growth.,0.0
+2025-01-19,Microsoft,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-06-06,Meta,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2024-04-29,Gilead Sciences,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-04-15,Meta,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-10-31,Goldman Sachs,Finance,33 is leading the sector with record-breaking earnings this year.,0.0
+2024-03-14,Pfizer,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-12-03,Goldman Sachs,Finance,18 is leading the sector with record-breaking earnings this year.,0.0
+2024-03-14,Apple,Technology,Increased regulation in 21 is creating new challenges for our business model.,0.14
+2024-05-01,Johnson & Johnson,Healthcare,We are expanding aggressively into 45 markets to capitalize on industry growth.,0.0
+2025-02-16,Pfizer,Healthcare,We are expanding aggressively into 10 markets to capitalize on industry growth.,0.0
+2024-12-30,JPMorgan,Finance,Our new product line in 30 is seeing exceptional early adoption.,0.3
+2024-06-24,Walmart,Retail,"Revenue grew by 24% this quarter, driven by strong demand in Retail.",0.43
+2024-06-21,Moderna,Healthcare,"Revenue grew by 30% this quarter, driven by strong demand in Healthcare.",0.43
+2024-04-29,Nvidia,Technology,We are expanding aggressively into 11 markets to capitalize on industry growth.,0.0
+2024-05-11,Johnson & Johnson,Healthcare,We are expanding aggressively into 41 markets to capitalize on industry growth.,0.0
+2024-10-08,Pfizer,Healthcare,Increased regulation in 30 is creating new challenges for our business model.,0.14
+2024-09-24,Target,Retail,We are expanding aggressively into 32 markets to capitalize on industry growth.,0.0
+2024-04-30,Walmart,Retail,25 is leading the sector with record-breaking earnings this year.,0.0
+2024-11-30,Goldman Sachs,Finance,12 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-04-13,Target,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-05-21,Walmart,Retail,Market volatility due to global economic conditions remains a concern.,0.03
+2024-07-27,Walmart,Retail,6 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-10-22,Bank of America,Finance,Increased regulation in 46 is creating new challenges for our business model.,0.14
+2024-11-01,Costco,Retail,We are expanding aggressively into 16 markets to capitalize on industry growth.,0.0
+2024-04-17,ExxonMobil,Energy,45 is leading the sector with record-breaking earnings this year.,0.0
+2024-10-12,Pfizer,Healthcare,"Revenue grew by 18% this quarter, driven by strong demand in Healthcare.",0.43
+2024-05-23,Chevron,Energy,Our new product line in 34 is seeing exceptional early adoption.,0.3
+2024-06-09,Target,Retail,Increased regulation in 39 is creating new challenges for our business model.,0.14
+2024-10-27,Moderna,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-04-26,Morgan Stanley,Finance,"Revenue grew by 26% this quarter, driven by strong demand in Finance.",0.43
+2024-07-03,Moderna,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2024-12-27,Shell,Energy,13 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-11-25,BP,Energy,42 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-02-05,Chevron,Energy,Increased regulation in 14 is creating new challenges for our business model.,0.14
+2025-01-18,Shell,Energy,We are seeing growing consumer interest in 41 due to macroeconomic trends.,-0.12
+2024-10-28,Goldman Sachs,Finance,We are expanding aggressively into 41 markets to capitalize on industry growth.,0.0
+2024-11-27,Shell,Energy,Our new product line in 50 is seeing exceptional early adoption.,0.3
+2024-12-09,Nvidia,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-12-22,Chevron,Energy,We are expanding aggressively into 36 markets to capitalize on industry growth.,0.0
+2024-11-18,Goldman Sachs,Finance,5 is leading the sector with record-breaking earnings this year.,0.0
+2025-02-01,Nvidia,Technology,We are expanding aggressively into 19 markets to capitalize on industry growth.,0.0
+2024-12-28,Chevron,Energy,26 is leading the sector with record-breaking earnings this year.,0.0
+2024-05-31,Goldman Sachs,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2024-06-30,ExxonMobil,Energy,We are expanding aggressively into 5 markets to capitalize on industry growth.,0.0
+2024-08-07,Bank of America,Finance,We are seeing growing consumer interest in 13 due to macroeconomic trends.,-0.12
+2025-02-14,JPMorgan,Finance,31 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-01-17,Apple,Technology,Increased regulation in 21 is creating new challenges for our business model.,0.14
+2025-02-01,Target,Retail,Increased regulation in 25 is creating new challenges for our business model.,0.14
+2024-05-20,Amazon,Retail,19 is leading the sector with record-breaking earnings this year.,0.0
+2025-03-04,Moderna,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2024-03-16,Shell,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-04-21,Costco,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-06-08,BP,Energy,Market volatility due to global economic conditions remains a concern.,0.03
+2024-08-03,Pfizer,Healthcare,We are seeing growing consumer interest in 28 due to macroeconomic trends.,-0.12
+2024-12-03,Google,Technology,25 is leading the sector with record-breaking earnings this year.,0.0
+2025-02-16,Goldman Sachs,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2024-12-24,Walmart,Retail,"Revenue grew by 29% this quarter, driven by strong demand in Retail.",0.43
+2024-08-25,JPMorgan,Finance,We are seeing growing consumer interest in 6 due to macroeconomic trends.,-0.12
+2024-09-21,ExxonMobil,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-08-13,Gilead Sciences,Healthcare,Our new product line in 9 is seeing exceptional early adoption.,0.3
+2025-02-20,Chevron,Energy,Increased regulation in 15 is creating new challenges for our business model.,0.14
+2025-02-06,Nvidia,Technology,We are seeing growing consumer interest in 5 due to macroeconomic trends.,-0.12
+2024-05-03,Google,Technology,We are expanding aggressively into 49 markets to capitalize on industry growth.,0.0
+2024-06-20,ExxonMobil,Energy,"Revenue grew by 30% this quarter, driven by strong demand in Energy.",0.43
+2024-08-17,BP,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-01-06,Target,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-07-06,Amazon,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-05-08,Morgan Stanley,Finance,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-10-12,Costco,Retail,10 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-06-29,Johnson & Johnson,Healthcare,47 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-01-05,ExxonMobil,Energy,39 is leading the sector with record-breaking earnings this year.,0.0
+2025-02-17,Walmart,Retail,Our new product line in 17 is seeing exceptional early adoption.,0.3
+2024-09-16,Johnson & Johnson,Healthcare,Increased regulation in 7 is creating new challenges for our business model.,0.14
+2025-01-11,Morgan Stanley,Finance,39 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-06-19,Target,Retail,We are expanding aggressively into 40 markets to capitalize on industry growth.,0.0
+2024-08-07,ExxonMobil,Energy,8 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-02-16,Meta,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-10-31,JPMorgan,Finance,"Revenue grew by 38% this quarter, driven by strong demand in Finance.",0.43
+2024-08-13,Amazon,Retail,"Revenue grew by 21% this quarter, driven by strong demand in Retail.",0.43
+2024-12-08,Chevron,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-02-13,Costco,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-01-17,Chevron,Energy,Increased regulation in 50 is creating new challenges for our business model.,0.14
+2025-03-03,Johnson & Johnson,Healthcare,We are seeing growing consumer interest in 48 due to macroeconomic trends.,-0.12
+2024-06-03,Goldman Sachs,Finance,36 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-11-17,Nvidia,Technology,Increased regulation in 19 is creating new challenges for our business model.,0.14
+2024-12-10,Bank of America,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-09-10,JPMorgan,Finance,We are expanding aggressively into 7 markets to capitalize on industry growth.,0.0
+2024-09-01,Amazon,Retail,"Revenue grew by 7% this quarter, driven by strong demand in Retail.",0.43
+2024-06-20,Amazon,Retail,Our new product line in 42 is seeing exceptional early adoption.,0.3
+2024-11-22,BP,Energy,We are seeing growing consumer interest in 6 due to macroeconomic trends.,-0.12
+2024-10-12,BP,Energy,We are expanding aggressively into 9 markets to capitalize on industry growth.,0.0
+2024-04-29,Target,Retail,We are expanding aggressively into 16 markets to capitalize on industry growth.,0.0
+2024-07-16,Amazon,Retail,Increased regulation in 9 is creating new challenges for our business model.,0.14
+2025-01-09,Chevron,Energy,Our new product line in 41 is seeing exceptional early adoption.,0.3
+2024-05-06,Amazon,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-09-14,BP,Energy,45 is leading the sector with record-breaking earnings this year.,0.0
+2024-05-17,Amazon,Technology,43 is leading the sector with record-breaking earnings this year.,0.0
+2024-05-14,Amazon,Retail,Our new product line in 39 is seeing exceptional early adoption.,0.3
+2025-01-22,Bank of America,Finance,7 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-07-03,JPMorgan,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-01-14,Pfizer,Healthcare,Our new product line in 50 is seeing exceptional early adoption.,0.3
+2024-10-16,BP,Energy,Our new product line in 23 is seeing exceptional early adoption.,0.3
+2024-03-20,Costco,Retail,We are expanding aggressively into 25 markets to capitalize on industry growth.,0.0
+2025-03-05,Walmart,Retail,Our new product line in 12 is seeing exceptional early adoption.,0.3
+2024-09-08,Bank of America,Finance,36 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-09-10,Moderna,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-12-10,Moderna,Healthcare,33 is leading the sector with record-breaking earnings this year.,0.0
+2025-01-13,Shell,Energy,Market volatility due to global economic conditions remains a concern.,0.03
+2025-01-13,Target,Retail,"Revenue grew by 47% this quarter, driven by strong demand in Retail.",0.43
+2024-04-20,JPMorgan,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2024-06-09,Johnson & Johnson,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2024-12-18,BP,Energy,Our new product line in 21 is seeing exceptional early adoption.,0.3
+2024-08-15,Walmart,Retail,19 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-02-04,Pfizer,Healthcare,We are expanding aggressively into 9 markets to capitalize on industry growth.,0.0
+2024-10-18,Meta,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-07-29,Moderna,Healthcare,"Revenue grew by 15% this quarter, driven by strong demand in Healthcare.",0.43
+2024-05-11,Johnson & Johnson,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2024-04-10,Amazon,Retail,Our new product line in 12 is seeing exceptional early adoption.,0.3
+2024-07-03,Gilead Sciences,Healthcare,"Revenue grew by 17% this quarter, driven by strong demand in Healthcare.",0.43
+2024-10-05,BP,Energy,9 is leading the sector with record-breaking earnings this year.,0.0
+2024-09-25,Johnson & Johnson,Healthcare,"Revenue grew by 18% this quarter, driven by strong demand in Healthcare.",0.43
+2024-05-28,Moderna,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2025-02-11,Pfizer,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2024-05-03,Chevron,Energy,We are seeing growing consumer interest in 5 due to macroeconomic trends.,-0.12
+2024-10-03,Amazon,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2025-02-24,Goldman Sachs,Finance,Our new product line in 29 is seeing exceptional early adoption.,0.3
+2024-10-21,Amazon,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-12-21,Apple,Technology,We are seeing growing consumer interest in 39 due to macroeconomic trends.,-0.12
+2024-10-04,Pfizer,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2025-03-06,Meta,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2024-04-09,Morgan Stanley,Finance,Increased regulation in 29 is creating new challenges for our business model.,0.14
+2024-07-07,Walmart,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-02-27,Bank of America,Finance,8 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-09-11,Walmart,Retail,"Revenue grew by 45% this quarter, driven by strong demand in Retail.",0.43
+2024-04-14,Walmart,Retail,"Revenue grew by 25% this quarter, driven by strong demand in Retail.",0.43
+2025-02-10,Amazon,Retail,We are seeing growing consumer interest in 37 due to macroeconomic trends.,-0.12
+2024-12-24,Bank of America,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-03-19,Costco,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-02-27,Johnson & Johnson,Healthcare,We are seeing growing consumer interest in 43 due to macroeconomic trends.,-0.12
+2025-01-28,Pfizer,Healthcare,"Revenue grew by 9% this quarter, driven by strong demand in Healthcare.",0.43
+2024-04-28,Morgan Stanley,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2025-01-02,Microsoft,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2024-05-01,BP,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-05-16,Goldman Sachs,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2025-01-13,Google,Technology,"Revenue grew by 16% this quarter, driven by strong demand in Technology.",0.43
+2024-05-09,Amazon,Retail,23 is leading the sector with record-breaking earnings this year.,0.0
+2024-06-30,Costco,Retail,8 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-12-10,JPMorgan,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-06-24,Chevron,Energy,Increased regulation in 47 is creating new challenges for our business model.,0.14
+2024-06-14,Pfizer,Healthcare,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-04-17,Goldman Sachs,Finance,We are expanding aggressively into 22 markets to capitalize on industry growth.,0.0
+2024-06-10,Johnson & Johnson,Healthcare,We are seeing growing consumer interest in 29 due to macroeconomic trends.,-0.12
+2024-07-14,Tesla,Technology,44 is leading the sector with record-breaking earnings this year.,0.0
+2024-05-29,Bank of America,Finance,Our new product line in 17 is seeing exceptional early adoption.,0.3
+2024-03-14,Costco,Retail,32 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-11-28,Nvidia,Technology,We are expanding aggressively into 6 markets to capitalize on industry growth.,0.0
+2024-08-16,Nvidia,Technology,43 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-05-25,Morgan Stanley,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-07-01,Goldman Sachs,Finance,32 is leading the sector with record-breaking earnings this year.,0.0
+2025-01-05,Costco,Retail,Market volatility due to global economic conditions remains a concern.,0.03
+2024-12-31,Pfizer,Healthcare,Increased regulation in 22 is creating new challenges for our business model.,0.14
+2024-07-28,Nvidia,Technology,Increased regulation in 46 is creating new challenges for our business model.,0.14
+2025-02-23,ExxonMobil,Energy,We are seeing growing consumer interest in 21 due to macroeconomic trends.,-0.12
+2024-09-21,Johnson & Johnson,Healthcare,6 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-01-20,Goldman Sachs,Finance,40 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-10-25,Walmart,Retail,10 is leading the sector with record-breaking earnings this year.,0.0
+2025-02-03,Morgan Stanley,Finance,We are seeing growing consumer interest in 42 due to macroeconomic trends.,-0.12
+2024-05-23,Shell,Energy,Market volatility due to global economic conditions remains a concern.,0.03
+2024-09-22,JPMorgan,Finance,Increased regulation in 13 is creating new challenges for our business model.,0.14
+2025-03-07,Microsoft,Technology,We are seeing growing consumer interest in 28 due to macroeconomic trends.,-0.12
+2025-01-28,JPMorgan,Finance,We are seeing growing consumer interest in 16 due to macroeconomic trends.,-0.12
+2024-08-25,Gilead Sciences,Healthcare,35 is leading the sector with record-breaking earnings this year.,0.0
+2024-05-06,Target,Retail,Our new product line in 15 is seeing exceptional early adoption.,0.3
+2024-07-08,Morgan Stanley,Finance,41 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-07-05,Bank of America,Finance,50 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-04-04,BP,Energy,"Revenue grew by 27% this quarter, driven by strong demand in Energy.",0.43
+2024-12-23,Tesla,Technology,21 is leading the sector with record-breaking earnings this year.,0.0
+2024-06-28,Moderna,Healthcare,Increased regulation in 20 is creating new challenges for our business model.,0.14
+2024-08-23,Walmart,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-01-13,BP,Energy,We are expanding aggressively into 8 markets to capitalize on industry growth.,0.0
+2025-02-18,Chevron,Energy,50 is leading the sector with record-breaking earnings this year.,0.0
+2024-12-04,Johnson & Johnson,Healthcare,Increased regulation in 45 is creating new challenges for our business model.,0.14
+2024-06-21,BP,Energy,Market volatility due to global economic conditions remains a concern.,0.03
+2024-12-02,Amazon,Technology,Increased regulation in 35 is creating new challenges for our business model.,0.14
+2024-09-06,Pfizer,Healthcare,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-11-24,Amazon,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-06-20,Morgan Stanley,Finance,21 is leading the sector with record-breaking earnings this year.,0.0
+2024-07-04,Target,Retail,Market volatility due to global economic conditions remains a concern.,0.03
+2024-06-12,Walmart,Retail,Market volatility due to global economic conditions remains a concern.,0.03
+2024-07-19,Amazon,Technology,We are seeing growing consumer interest in 24 due to macroeconomic trends.,-0.12
+2024-10-01,Microsoft,Technology,Our new product line in 45 is seeing exceptional early adoption.,0.3
+2024-09-09,ExxonMobil,Energy,Market volatility due to global economic conditions remains a concern.,0.03
+2024-07-01,Gilead Sciences,Healthcare,19 is leading the sector with record-breaking earnings this year.,0.0
+2024-03-22,Bank of America,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-02-11,Bank of America,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2025-01-17,Johnson & Johnson,Healthcare,We are expanding aggressively into 45 markets to capitalize on industry growth.,0.0
+2024-03-14,Amazon,Retail,20 is leading the sector with record-breaking earnings this year.,0.0
+2024-04-17,Moderna,Healthcare,We are expanding aggressively into 46 markets to capitalize on industry growth.,0.0
+2025-03-05,Shell,Energy,32 is leading the sector with record-breaking earnings this year.,0.0
+2024-11-08,Shell,Energy,We are seeing growing consumer interest in 16 due to macroeconomic trends.,-0.12
+2024-09-17,JPMorgan,Finance,Our new product line in 43 is seeing exceptional early adoption.,0.3
+2025-01-21,Johnson & Johnson,Healthcare,Our new product line in 26 is seeing exceptional early adoption.,0.3
+2025-02-05,Gilead Sciences,Healthcare,33 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-09-19,ExxonMobil,Energy,"Revenue grew by 50% this quarter, driven by strong demand in Energy.",0.43
+2024-12-12,Google,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-12-02,ExxonMobil,Energy,"Revenue grew by 34% this quarter, driven by strong demand in Energy.",0.43
+2024-07-09,Moderna,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-08-31,Morgan Stanley,Finance,Our new product line in 47 is seeing exceptional early adoption.,0.3
+2024-05-02,Costco,Retail,We are seeing growing consumer interest in 11 due to macroeconomic trends.,-0.12
+2024-04-29,Apple,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-05-11,Walmart,Retail,Our new product line in 45 is seeing exceptional early adoption.,0.3
+2024-03-13,Meta,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2024-09-19,Target,Retail,"Revenue grew by 9% this quarter, driven by strong demand in Retail.",0.43
+2024-12-30,Gilead Sciences,Healthcare,Increased regulation in 15 is creating new challenges for our business model.,0.14
+2024-10-27,Microsoft,Technology,We are seeing growing consumer interest in 33 due to macroeconomic trends.,-0.12
+2024-09-11,Shell,Energy,Increased regulation in 46 is creating new challenges for our business model.,0.14
+2024-10-19,Google,Technology,"Revenue grew by 40% this quarter, driven by strong demand in Technology.",0.43
+2024-11-14,Johnson & Johnson,Healthcare,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-05-10,Chevron,Energy,We are seeing growing consumer interest in 48 due to macroeconomic trends.,-0.12
+2025-01-26,Goldman Sachs,Finance,"Revenue grew by 8% this quarter, driven by strong demand in Finance.",0.43
+2024-08-30,JPMorgan,Finance,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-11-04,Walmart,Retail,13 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-06-05,Bank of America,Finance,40 is leading the sector with record-breaking earnings this year.,0.0
+2024-06-14,JPMorgan,Finance,17 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-10-22,Tesla,Technology,Our new product line in 8 is seeing exceptional early adoption.,0.3
+2024-08-11,Goldman Sachs,Finance,Increased regulation in 37 is creating new challenges for our business model.,0.14
+2024-11-12,Chevron,Energy,We are seeing growing consumer interest in 40 due to macroeconomic trends.,-0.12
+2024-10-07,Google,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-05-27,Shell,Energy,We are seeing growing consumer interest in 13 due to macroeconomic trends.,-0.12
+2024-09-30,BP,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-10-10,Shell,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-08-20,JPMorgan,Finance,43 is leading the sector with record-breaking earnings this year.,0.0
+2024-08-22,Nvidia,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-08-08,Microsoft,Technology,19 is leading the sector with record-breaking earnings this year.,0.0
+2024-04-07,Gilead Sciences,Healthcare,Increased regulation in 36 is creating new challenges for our business model.,0.14
+2024-09-24,Apple,Technology,"Revenue grew by 13% this quarter, driven by strong demand in Technology.",0.43
+2024-04-26,Amazon,Retail,Increased regulation in 38 is creating new challenges for our business model.,0.14
+2025-02-17,JPMorgan,Finance,19 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-06-17,Johnson & Johnson,Healthcare,We are seeing growing consumer interest in 19 due to macroeconomic trends.,-0.12
+2024-03-19,Meta,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-01-17,Target,Retail,We are seeing growing consumer interest in 38 due to macroeconomic trends.,-0.12
+2024-11-14,Walmart,Retail,45 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-07-13,Gilead Sciences,Healthcare,"Revenue grew by 45% this quarter, driven by strong demand in Healthcare.",0.43
+2025-02-06,Bank of America,Finance,We are expanding aggressively into 40 markets to capitalize on industry growth.,0.0
+2024-03-16,JPMorgan,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-04-22,Costco,Retail,26 is leading the sector with record-breaking earnings this year.,0.0
+2024-10-08,Morgan Stanley,Finance,Increased regulation in 9 is creating new challenges for our business model.,0.14
+2025-01-28,Meta,Technology,"Revenue grew by 49% this quarter, driven by strong demand in Technology.",0.43
+2024-09-23,JPMorgan,Finance,"Revenue grew by 15% this quarter, driven by strong demand in Finance.",0.43
+2025-01-14,Bank of America,Finance,33 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-04-17,Pfizer,Healthcare,"Revenue grew by 35% this quarter, driven by strong demand in Healthcare.",0.43
+2024-07-07,Gilead Sciences,Healthcare,Increased regulation in 40 is creating new challenges for our business model.,0.14
+2024-06-18,Target,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-06-03,ExxonMobil,Energy,Our new product line in 42 is seeing exceptional early adoption.,0.3
+2024-12-08,Amazon,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-11-28,Pfizer,Healthcare,27 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-04-28,Moderna,Healthcare,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-08-07,BP,Energy,We are seeing growing consumer interest in 13 due to macroeconomic trends.,-0.12
+2025-01-05,Google,Technology,42 is leading the sector with record-breaking earnings this year.,0.0
+2024-03-30,Bank of America,Finance,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-02-26,Moderna,Healthcare,Our new product line in 14 is seeing exceptional early adoption.,0.3
+2024-10-15,Moderna,Healthcare,We are seeing growing consumer interest in 33 due to macroeconomic trends.,-0.12
+2024-12-01,JPMorgan,Finance,"Revenue grew by 34% this quarter, driven by strong demand in Finance.",0.43
+2024-07-29,JPMorgan,Finance,"Revenue grew by 38% this quarter, driven by strong demand in Finance.",0.43
+2024-08-26,JPMorgan,Finance,19 is leading the sector with record-breaking earnings this year.,0.0
+2025-02-23,Morgan Stanley,Finance,19 is leading the sector with record-breaking earnings this year.,0.0
+2025-01-25,Gilead Sciences,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-02-16,Meta,Technology,21 is leading the sector with record-breaking earnings this year.,0.0
+2025-03-04,Google,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2025-01-12,Costco,Retail,We are seeing growing consumer interest in 26 due to macroeconomic trends.,-0.12
+2024-09-15,Nvidia,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-01-17,Bank of America,Finance,Increased regulation in 37 is creating new challenges for our business model.,0.14
+2024-05-12,Target,Retail,We are expanding aggressively into 13 markets to capitalize on industry growth.,0.0
+2024-05-27,Apple,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-11-17,Microsoft,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2024-06-15,Amazon,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-11-10,Morgan Stanley,Finance,"Revenue grew by 38% this quarter, driven by strong demand in Finance.",0.43
+2024-09-10,ExxonMobil,Energy,23 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-03-05,Microsoft,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2024-11-18,BP,Energy,Our new product line in 40 is seeing exceptional early adoption.,0.3
+2024-04-02,Gilead Sciences,Healthcare,Increased regulation in 42 is creating new challenges for our business model.,0.14
+2024-08-12,Moderna,Healthcare,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-09-21,Target,Retail,"Revenue grew by 42% this quarter, driven by strong demand in Retail.",0.43
+2024-04-09,Chevron,Energy,24 is leading the sector with record-breaking earnings this year.,0.0
+2024-03-31,BP,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-07-17,Shell,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-06-16,Amazon,Retail,We are expanding aggressively into 37 markets to capitalize on industry growth.,0.0
+2024-09-15,Microsoft,Technology,Our new product line in 46 is seeing exceptional early adoption.,0.3
+2025-01-26,BP,Energy,Our new product line in 34 is seeing exceptional early adoption.,0.3
+2024-03-28,Target,Retail,We are seeing growing consumer interest in 30 due to macroeconomic trends.,-0.12
+2024-10-03,Amazon,Technology,"Revenue grew by 13% this quarter, driven by strong demand in Technology.",0.43
+2024-11-14,BP,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-12-23,Amazon,Retail,Increased regulation in 36 is creating new challenges for our business model.,0.14
+2024-11-03,Nvidia,Technology,We are seeing growing consumer interest in 36 due to macroeconomic trends.,-0.12
+2024-06-12,JPMorgan,Finance,We are expanding aggressively into 31 markets to capitalize on industry growth.,0.0
+2024-12-25,Moderna,Healthcare,25 is leading the sector with record-breaking earnings this year.,0.0
+2025-02-07,Walmart,Retail,12 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-11-18,Pfizer,Healthcare,We are seeing growing consumer interest in 11 due to macroeconomic trends.,-0.12
+2024-07-27,Moderna,Healthcare,We are seeing growing consumer interest in 23 due to macroeconomic trends.,-0.12
+2024-10-16,Meta,Technology,39 is leading the sector with record-breaking earnings this year.,0.0
+2024-07-23,Morgan Stanley,Finance,We are expanding aggressively into 16 markets to capitalize on industry growth.,0.0
+2024-07-26,Chevron,Energy,43 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-02-07,JPMorgan,Finance,Increased regulation in 32 is creating new challenges for our business model.,0.14
+2024-08-11,Nvidia,Technology,We are seeing growing consumer interest in 22 due to macroeconomic trends.,-0.12
+2024-11-13,Pfizer,Healthcare,We are seeing growing consumer interest in 38 due to macroeconomic trends.,-0.12
+2024-12-06,Amazon,Technology,22 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-06-02,Gilead Sciences,Healthcare,14 is leading the sector with record-breaking earnings this year.,0.0
+2024-08-24,Amazon,Retail,We are seeing growing consumer interest in 50 due to macroeconomic trends.,-0.12
+2024-12-20,Morgan Stanley,Finance,We are expanding aggressively into 34 markets to capitalize on industry growth.,0.0
+2024-06-28,Walmart,Retail,"Revenue grew by 18% this quarter, driven by strong demand in Retail.",0.43
+2024-05-05,Moderna,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-12-15,Walmart,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-04-26,Tesla,Technology,We are expanding aggressively into 45 markets to capitalize on industry growth.,0.0
+2024-09-29,Moderna,Healthcare,49 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-04-15,Costco,Retail,Market volatility due to global economic conditions remains a concern.,0.03
+2024-05-07,Pfizer,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2025-03-01,Goldman Sachs,Finance,We are expanding aggressively into 14 markets to capitalize on industry growth.,0.0
+2024-09-29,Chevron,Energy,39 is leading the sector with record-breaking earnings this year.,0.0
+2024-11-14,Target,Retail,"Revenue grew by 20% this quarter, driven by strong demand in Retail.",0.43
+2024-06-10,Pfizer,Healthcare,We are expanding aggressively into 15 markets to capitalize on industry growth.,0.0
+2024-07-25,Amazon,Retail,Our new product line in 21 is seeing exceptional early adoption.,0.3
+2024-09-14,Tesla,Technology,We are seeing growing consumer interest in 41 due to macroeconomic trends.,-0.12
+2025-01-29,Costco,Retail,31 is leading the sector with record-breaking earnings this year.,0.0
+2024-07-24,Walmart,Retail,Our new product line in 47 is seeing exceptional early adoption.,0.3
+2024-05-31,Meta,Technology,Our new product line in 6 is seeing exceptional early adoption.,0.3
+2024-03-16,Pfizer,Healthcare,Our new product line in 12 is seeing exceptional early adoption.,0.3
+2024-12-30,BP,Energy,We are expanding aggressively into 43 markets to capitalize on industry growth.,0.0
+2024-10-31,Walmart,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-03-18,Johnson & Johnson,Healthcare,We are expanding aggressively into 7 markets to capitalize on industry growth.,0.0
+2024-06-11,Google,Technology,Increased regulation in 49 is creating new challenges for our business model.,0.14
+2025-03-01,Johnson & Johnson,Healthcare,We are expanding aggressively into 15 markets to capitalize on industry growth.,0.0
+2024-12-30,Pfizer,Healthcare,43 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-10-11,Bank of America,Finance,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-01-13,Johnson & Johnson,Healthcare,15 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-01-08,Morgan Stanley,Finance,We are expanding aggressively into 40 markets to capitalize on industry growth.,0.0
+2025-02-09,Morgan Stanley,Finance,29 is leading the sector with record-breaking earnings this year.,0.0
+2025-01-22,Pfizer,Healthcare,We are seeing growing consumer interest in 24 due to macroeconomic trends.,-0.12
+2024-08-11,Moderna,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2024-11-30,Costco,Retail,5 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-08-04,JPMorgan,Finance,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-05-26,Shell,Energy,"Revenue grew by 18% this quarter, driven by strong demand in Energy.",0.43
+2024-08-01,Amazon,Retail,We are expanding aggressively into 41 markets to capitalize on industry growth.,0.0
+2024-03-30,Microsoft,Technology,Our new product line in 21 is seeing exceptional early adoption.,0.3
+2024-05-22,Goldman Sachs,Finance,Our new product line in 24 is seeing exceptional early adoption.,0.3
+2024-12-17,Morgan Stanley,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-07-03,Johnson & Johnson,Healthcare,38 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-12-19,Moderna,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2024-11-20,Tesla,Technology,We are expanding aggressively into 24 markets to capitalize on industry growth.,0.0
+2024-04-24,Johnson & Johnson,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2024-07-16,Shell,Energy,We are seeing growing consumer interest in 27 due to macroeconomic trends.,-0.12
+2024-09-26,Tesla,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2024-12-06,Morgan Stanley,Finance,We are seeing growing consumer interest in 15 due to macroeconomic trends.,-0.12
+2024-12-26,Shell,Energy,11 is leading the sector with record-breaking earnings this year.,0.0
+2024-08-09,Moderna,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2025-02-12,Amazon,Technology,We are seeing growing consumer interest in 43 due to macroeconomic trends.,-0.12
+2024-08-03,Tesla,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-06-12,ExxonMobil,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-12-24,Johnson & Johnson,Healthcare,Increased regulation in 34 is creating new challenges for our business model.,0.14
+2024-07-07,Meta,Technology,19 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-02-16,JPMorgan,Finance,We are expanding aggressively into 39 markets to capitalize on industry growth.,0.0
+2024-05-10,Moderna,Healthcare,"Revenue grew by 9% this quarter, driven by strong demand in Healthcare.",0.43
+2024-10-09,Apple,Technology,49 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-10-21,ExxonMobil,Energy,Our new product line in 46 is seeing exceptional early adoption.,0.3
+2024-04-04,Shell,Energy,Increased regulation in 18 is creating new challenges for our business model.,0.14
+2024-07-02,Shell,Energy,Our new product line in 29 is seeing exceptional early adoption.,0.3
+2024-09-09,ExxonMobil,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-11-26,Walmart,Retail,11 is leading the sector with record-breaking earnings this year.,0.0
+2025-03-10,Gilead Sciences,Healthcare,38 is leading the sector with record-breaking earnings this year.,0.0
+2024-06-27,Pfizer,Healthcare,We are seeing growing consumer interest in 12 due to macroeconomic trends.,-0.12
+2024-08-23,Gilead Sciences,Healthcare,Increased regulation in 13 is creating new challenges for our business model.,0.14
+2024-04-12,Amazon,Technology,48 is leading the sector with record-breaking earnings this year.,0.0
+2024-10-09,Amazon,Retail,26 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-03-12,ExxonMobil,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-11-15,Moderna,Healthcare,Increased regulation in 25 is creating new challenges for our business model.,0.14
+2024-11-27,Amazon,Technology,Our new product line in 16 is seeing exceptional early adoption.,0.3
+2024-04-02,Johnson & Johnson,Healthcare,"Revenue grew by 38% this quarter, driven by strong demand in Healthcare.",0.43
+2024-12-29,Amazon,Retail,46 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-06-30,Pfizer,Healthcare,8 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-05-26,Microsoft,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2024-07-28,Johnson & Johnson,Healthcare,28 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-08-19,JPMorgan,Finance,"Revenue grew by 48% this quarter, driven by strong demand in Finance.",0.43
+2024-07-26,Shell,Energy,We are expanding aggressively into 25 markets to capitalize on industry growth.,0.0
+2024-06-22,Johnson & Johnson,Healthcare,47 is leading the sector with record-breaking earnings this year.,0.0
+2025-03-07,Shell,Energy,Our new product line in 35 is seeing exceptional early adoption.,0.3
+2025-01-09,Chevron,Energy,Increased regulation in 10 is creating new challenges for our business model.,0.14
+2025-02-17,Google,Technology,"Revenue grew by 7% this quarter, driven by strong demand in Technology.",0.43
+2024-08-02,Goldman Sachs,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2024-12-01,Gilead Sciences,Healthcare,Increased regulation in 33 is creating new challenges for our business model.,0.14
+2025-01-29,Microsoft,Technology,43 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-03-18,Gilead Sciences,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2024-10-21,Bank of America,Finance,We are expanding aggressively into 14 markets to capitalize on industry growth.,0.0
+2024-04-10,BP,Energy,Increased regulation in 47 is creating new challenges for our business model.,0.14
+2024-03-20,Pfizer,Healthcare,We are seeing growing consumer interest in 23 due to macroeconomic trends.,-0.12
+2024-05-31,Chevron,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-08-30,Pfizer,Healthcare,"Revenue grew by 15% this quarter, driven by strong demand in Healthcare.",0.43
+2024-04-20,Goldman Sachs,Finance,14 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-09-06,Pfizer,Healthcare,"Revenue grew by 42% this quarter, driven by strong demand in Healthcare.",0.43
+2025-02-26,Chevron,Energy,19 is leading the sector with record-breaking earnings this year.,0.0
+2024-07-04,Moderna,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2024-04-20,BP,Energy,49 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-10-26,JPMorgan,Finance,Our new product line in 30 is seeing exceptional early adoption.,0.3
+2024-11-15,Meta,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2024-11-29,Goldman Sachs,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2025-02-14,Johnson & Johnson,Healthcare,Increased regulation in 43 is creating new challenges for our business model.,0.14
+2025-03-02,Shell,Energy,50 is leading the sector with record-breaking earnings this year.,0.0
+2024-07-03,Chevron,Energy,33 is leading the sector with record-breaking earnings this year.,0.0
+2024-03-28,Gilead Sciences,Healthcare,We are expanding aggressively into 11 markets to capitalize on industry growth.,0.0
+2024-05-29,Chevron,Energy,Our new product line in 41 is seeing exceptional early adoption.,0.3
+2024-06-12,Pfizer,Healthcare,"Revenue grew by 44% this quarter, driven by strong demand in Healthcare.",0.43
+2025-02-13,Nvidia,Technology,Our new product line in 47 is seeing exceptional early adoption.,0.3
+2024-08-05,Costco,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-01-22,ExxonMobil,Energy,Increased regulation in 11 is creating new challenges for our business model.,0.14
+2024-07-12,Moderna,Healthcare,"Revenue grew by 23% this quarter, driven by strong demand in Healthcare.",0.43
+2024-09-18,Pfizer,Healthcare,"Revenue grew by 13% this quarter, driven by strong demand in Healthcare.",0.43
+2024-12-20,Google,Technology,Our new product line in 41 is seeing exceptional early adoption.,0.3
+2025-01-01,JPMorgan,Finance,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-08-11,Moderna,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-11-02,Pfizer,Healthcare,We are seeing growing consumer interest in 42 due to macroeconomic trends.,-0.12
+2025-01-17,Costco,Retail,We are expanding aggressively into 39 markets to capitalize on industry growth.,0.0
+2025-01-05,Shell,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-09-08,BP,Energy,Market volatility due to global economic conditions remains a concern.,0.03
+2024-04-11,BP,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-03-05,Amazon,Retail,12 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-10-16,ExxonMobil,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-01-07,Bank of America,Finance,Our new product line in 49 is seeing exceptional early adoption.,0.3
+2025-01-13,Google,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2024-03-24,Shell,Energy,"Revenue grew by 45% this quarter, driven by strong demand in Energy.",0.43
+2024-10-25,Tesla,Technology,Increased regulation in 16 is creating new challenges for our business model.,0.14
+2024-05-14,Gilead Sciences,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-01-17,Shell,Energy,Our new product line in 17 is seeing exceptional early adoption.,0.3
+2024-09-15,Walmart,Retail,We are seeing growing consumer interest in 50 due to macroeconomic trends.,-0.12
+2024-08-09,Johnson & Johnson,Healthcare,39 is leading the sector with record-breaking earnings this year.,0.0
+2024-04-05,Walmart,Retail,We are seeing growing consumer interest in 5 due to macroeconomic trends.,-0.12
+2024-05-28,Moderna,Healthcare,27 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-12-12,Costco,Retail,45 is leading the sector with record-breaking earnings this year.,0.0
+2024-09-10,Bank of America,Finance,35 is leading the sector with record-breaking earnings this year.,0.0
+2024-04-05,Gilead Sciences,Healthcare,Increased regulation in 11 is creating new challenges for our business model.,0.14
+2024-09-02,Bank of America,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-04-17,Apple,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-03-10,Chevron,Energy,"Revenue grew by 29% this quarter, driven by strong demand in Energy.",0.43
+2025-02-17,Google,Technology,41 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-11-04,Johnson & Johnson,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2025-01-12,Bank of America,Finance,We are seeing growing consumer interest in 40 due to macroeconomic trends.,-0.12
+2024-12-02,Shell,Energy,20 is leading the sector with record-breaking earnings this year.,0.0
+2024-07-07,ExxonMobil,Energy,Market volatility due to global economic conditions remains a concern.,0.03
+2025-02-18,Bank of America,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-09-10,Amazon,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-07-22,Pfizer,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-04-25,Amazon,Retail,11 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-09-13,Morgan Stanley,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-06-12,Amazon,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2024-11-12,Walmart,Retail,We are seeing growing consumer interest in 7 due to macroeconomic trends.,-0.12
+2024-09-09,Chevron,Energy,19 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-06-17,Tesla,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-09-21,Chevron,Energy,We are expanding aggressively into 30 markets to capitalize on industry growth.,0.0
+2024-10-26,Bank of America,Finance,We are expanding aggressively into 41 markets to capitalize on industry growth.,0.0
+2025-02-22,Pfizer,Healthcare,"Revenue grew by 29% this quarter, driven by strong demand in Healthcare.",0.43
+2024-04-26,Shell,Energy,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-07-19,Shell,Energy,49 is leading the sector with record-breaking earnings this year.,0.0
+2024-07-19,Goldman Sachs,Finance,44 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-01-22,Gilead Sciences,Healthcare,35 is leading the sector with record-breaking earnings this year.,0.0
+2024-06-23,Moderna,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2024-09-21,Goldman Sachs,Finance,24 is leading the sector with record-breaking earnings this year.,0.0
+2024-10-14,Goldman Sachs,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2025-01-01,Pfizer,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2024-05-17,Bank of America,Finance,Increased regulation in 46 is creating new challenges for our business model.,0.14
+2024-06-21,Pfizer,Healthcare,We are expanding aggressively into 24 markets to capitalize on industry growth.,0.0
+2024-09-20,Chevron,Energy,42 is leading the sector with record-breaking earnings this year.,0.0
+2025-02-13,Google,Technology,5 is leading the sector with record-breaking earnings this year.,0.0
+2024-11-21,Apple,Technology,We are seeing growing consumer interest in 41 due to macroeconomic trends.,-0.12
+2024-10-04,Meta,Technology,Our new product line in 12 is seeing exceptional early adoption.,0.3
+2024-09-07,JPMorgan,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-02-09,Pfizer,Healthcare,Our new product line in 43 is seeing exceptional early adoption.,0.3
+2024-11-23,Johnson & Johnson,Healthcare,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-11-16,JPMorgan,Finance,9 is leading the sector with record-breaking earnings this year.,0.0
+2024-09-19,Johnson & Johnson,Healthcare,42 is leading the sector with record-breaking earnings this year.,0.0
+2024-06-28,Pfizer,Healthcare,We are expanding aggressively into 15 markets to capitalize on industry growth.,0.0
+2024-10-19,Target,Retail,Market volatility due to global economic conditions remains a concern.,0.03
+2024-07-25,Microsoft,Technology,36 is leading the sector with record-breaking earnings this year.,0.0
+2024-09-19,Shell,Energy,Our new product line in 16 is seeing exceptional early adoption.,0.3
+2024-10-13,Chevron,Energy,"Revenue grew by 44% this quarter, driven by strong demand in Energy.",0.43
+2024-04-11,Walmart,Retail,7 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-04-06,Google,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-09-21,Costco,Retail,"Revenue grew by 37% this quarter, driven by strong demand in Retail.",0.43
+2025-02-15,Morgan Stanley,Finance,40 is leading the sector with record-breaking earnings this year.,0.0
+2024-09-01,Moderna,Healthcare,We are seeing growing consumer interest in 24 due to macroeconomic trends.,-0.12
+2024-04-08,Bank of America,Finance,40 is leading the sector with record-breaking earnings this year.,0.0
+2024-10-11,Microsoft,Technology,Increased regulation in 42 is creating new challenges for our business model.,0.14
+2024-06-30,Chevron,Energy,Market volatility due to global economic conditions remains a concern.,0.03
+2024-12-17,JPMorgan,Finance,"Revenue grew by 29% this quarter, driven by strong demand in Finance.",0.43
+2024-12-16,Moderna,Healthcare,"Revenue grew by 43% this quarter, driven by strong demand in Healthcare.",0.43
+2024-12-21,Goldman Sachs,Finance,We are seeing growing consumer interest in 41 due to macroeconomic trends.,-0.12
+2024-06-13,Amazon,Retail,We are expanding aggressively into 39 markets to capitalize on industry growth.,0.0
+2024-04-14,Nvidia,Technology,11 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-07-30,Amazon,Technology,Our new product line in 10 is seeing exceptional early adoption.,0.3
+2024-03-20,Tesla,Technology,47 is leading the sector with record-breaking earnings this year.,0.0
+2024-12-25,Pfizer,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2024-05-05,Goldman Sachs,Finance,19 is leading the sector with record-breaking earnings this year.,0.0
+2024-09-09,Bank of America,Finance,7 is leading the sector with record-breaking earnings this year.,0.0
+2024-05-22,JPMorgan,Finance,Increased regulation in 19 is creating new challenges for our business model.,0.14
+2024-10-28,Amazon,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-01-06,Meta,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2024-09-14,Microsoft,Technology,We are expanding aggressively into 16 markets to capitalize on industry growth.,0.0
+2024-07-14,Goldman Sachs,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-10-22,Costco,Retail,Our new product line in 9 is seeing exceptional early adoption.,0.3
+2024-06-20,Shell,Energy,"Revenue grew by 14% this quarter, driven by strong demand in Energy.",0.43
+2024-12-27,Morgan Stanley,Finance,Our new product line in 10 is seeing exceptional early adoption.,0.3
+2024-10-20,Goldman Sachs,Finance,We are seeing growing consumer interest in 41 due to macroeconomic trends.,-0.12
+2024-03-28,Amazon,Technology,43 is leading the sector with record-breaking earnings this year.,0.0
+2024-06-21,Goldman Sachs,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-09-03,Target,Retail,"Revenue grew by 45% this quarter, driven by strong demand in Retail.",0.43
+2024-06-01,Nvidia,Technology,We are seeing growing consumer interest in 26 due to macroeconomic trends.,-0.12
+2024-10-01,Google,Technology,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-11-17,ExxonMobil,Energy,19 is leading the sector with record-breaking earnings this year.,0.0
+2024-05-30,BP,Energy,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2025-03-05,Goldman Sachs,Finance,14 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-04-04,Moderna,Healthcare,48 is leading the sector with record-breaking earnings this year.,0.0
+2025-02-18,Costco,Retail,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-12-21,Amazon,Retail,"Revenue grew by 13% this quarter, driven by strong demand in Retail.",0.43
+2024-11-29,Shell,Energy,Our new product line in 41 is seeing exceptional early adoption.,0.3
+2024-11-21,Microsoft,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-08-09,Tesla,Technology,Increased regulation in 30 is creating new challenges for our business model.,0.14
+2024-04-03,Johnson & Johnson,Healthcare,49 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-01-27,Morgan Stanley,Finance,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-11-23,Amazon,Retail,49 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2025-02-18,Pfizer,Healthcare,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-11-28,Costco,Retail,Increased regulation in 29 is creating new challenges for our business model.,0.14
+2024-03-18,Microsoft,Technology,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2025-02-10,ExxonMobil,Energy,Our new product line in 14 is seeing exceptional early adoption.,0.3
+2025-02-17,Goldman Sachs,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-08-29,Bank of America,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-05-14,Tesla,Technology,48 is leading the sector with record-breaking earnings this year.,0.0
+2024-03-25,Moderna,Healthcare,Increased regulation in 5 is creating new challenges for our business model.,0.14
+2024-08-06,Johnson & Johnson,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-10-31,Goldman Sachs,Finance,Market volatility due to global economic conditions remains a concern.,0.03
+2024-12-03,Shell,Energy,"Revenue grew by 48% this quarter, driven by strong demand in Energy.",0.43
+2024-09-01,Pfizer,Healthcare,Market volatility due to global economic conditions remains a concern.,0.03
+2025-01-19,Johnson & Johnson,Healthcare,"This quarter, our cash flow has strengthened due to improved operational efficiencies.",-0.12
+2024-09-11,ExxonMobil,Energy,Our new product line in 50 is seeing exceptional early adoption.,0.3
+2024-05-10,Meta,Technology,Our new product line in 46 is seeing exceptional early adoption.,0.3
+2024-07-14,Shell,Energy,Increased regulation in 13 is creating new challenges for our business model.,0.14
+2024-10-16,Chevron,Energy,"Revenue grew by 17% this quarter, driven by strong demand in Energy.",0.43
+2024-07-22,Walmart,Retail,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-07-23,Microsoft,Technology,Our new product line in 21 is seeing exceptional early adoption.,0.3
+2024-11-17,Costco,Retail,22 is investing heavily in AI and automation to enhance efficiency.,-0.2
+2024-10-31,Tesla,Technology,Our new product line in 10 is seeing exceptional early adoption.,0.3
+2025-01-15,Meta,Technology,We are expanding aggressively into 25 markets to capitalize on industry growth.,0.0
+2024-04-24,Nvidia,Technology,We are seeing growing consumer interest in 20 due to macroeconomic trends.,-0.12
+2024-06-15,Chevron,Energy,"Revenue grew by 32% this quarter, driven by strong demand in Energy.",0.43
+2024-12-21,Goldman Sachs,Finance,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-05-20,Amazon,Retail,"Revenue grew by 9% this quarter, driven by strong demand in Retail.",0.43
+2024-06-07,Johnson & Johnson,Healthcare,"Revenue grew by 38% this quarter, driven by strong demand in Healthcare.",0.43
+2024-12-05,Target,Retail,We are expanding aggressively into 8 markets to capitalize on industry growth.,0.0
+2024-12-24,Meta,Technology,Market volatility due to global economic conditions remains a concern.,0.03
+2024-12-12,Shell,Energy,Increased regulation in 49 is creating new challenges for our business model.,0.14
+2024-07-22,Costco,Retail,Our new product line in 11 is seeing exceptional early adoption.,0.3
+2024-10-05,Morgan Stanley,Finance,We are expanding aggressively into 50 markets to capitalize on industry growth.,0.0
+2025-01-16,Johnson & Johnson,Healthcare,Rising interest rates are impacting our borrowing costs and future outlook.,0.0
+2024-05-13,Moderna,Healthcare,We are seeing growing consumer interest in 21 due to macroeconomic trends.,-0.12
+2025-02-18,Tesla,Technology,We are expanding aggressively into 29 markets to capitalize on industry growth.,0.0
