@@ -1,0 +1,6 @@
+# Ignore virtual environment
+vtop/
+
+# Ignore data folder
+earnings_call_transcripts
+insider_trading_data 
